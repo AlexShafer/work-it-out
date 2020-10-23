@@ -1,9 +1,8 @@
-const express = require("express");
 const router = require("express").Router();
 const {Workout} = require("../models");
 
 router.get("/api/workouts", (req, res) => {
-    Workout.find({}, (err, workouts) => {
+    Workout.find({}, (workouts) => {
         res.json(workouts);
     })
     .catch(err => {

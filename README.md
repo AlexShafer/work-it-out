@@ -8,11 +8,11 @@ This app records the user's workouts and outputs the data graphically.
 
 ## Demo
 
-![Demo](/demo/demo1.jpeg)
+![Demo](/demo/demo1.jpg)
 
-![Demo](/demo/demo2.jpeg)
+![Demo](/demo/demo2.jpg)
 
-![Demo](/demo/demo3.jpeg)
+![Demo](/demo/demo3.jpg)
 
 ## Deployment
 

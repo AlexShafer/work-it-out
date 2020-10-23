@@ -8,7 +8,15 @@ This app records the user's workouts and outputs the data graphically.
 
 ## Demo
 
-![Demo](/demo/demo.gif)
+![Demo](/demo/demo1.jpeg)
+
+![Demo](/demo/demo2.jpeg)
+
+![Demo](/demo/demo3.jpeg)
+
+## Deployment
+
+https://fierce-island-15301.herokuapp.com/
 
 ## Table of Contents
 
